@@ -7,5 +7,6 @@ public class MainClass {
         System.out.println("Je suis le quatieme changement a etre fait");
         System.out.println("Je suis le cinqieme changement a etre fait");
         System.out.println("Je suis le sixieme changement a etre fait");
+        System.out.println("Je suis le septieme changement a etre fait");
     }
 }
